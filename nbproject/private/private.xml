@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/other/Authentication.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/util/DateUtil.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/person/Person.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/person/Patient.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/person/PatientCatalog.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/vaccine/Vaccine.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/vaccine/VaccineCatalog.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/medical/Stuff.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/test/testRequestCertificate2.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/test/testRequestCertificate3.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/other/Appointment.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/medical/Doctor.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/model/medical/Nurse.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/test/testVaccineManage.java</file>
+            <file>file:/Users/liubo/NetBeansProjects/vaccination%20application/src/test/testRequestCertificate.java</file>
+        </group>
+    </open-files>
+</project-private>
